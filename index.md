@@ -15,5 +15,5 @@ Ein sehr häufiges Zitat von Fred Feuerstein ist:
 > be happy.
 
 Schönes Bild von Fred Feuerstein aus der Steinzeit:
-<img src="https://mh-2-bildagentur.panthermedia.net/media/previews/0009000000/09468000/~bryce-canyon-np_09468180_high.jpg"/>
+<img src="URL"/>
 
