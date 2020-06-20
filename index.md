@@ -9,3 +9,8 @@ Fred Feuerstein ist ein liebenswürdiger Mensch der immer freundlich und zuversi
 * humorvoll
 * nicht voreingenommen
 
+Ein sehr häufiges Zitat von Fred Feuerstein ist:
+
+> Don't worry
+> be happy.
+
